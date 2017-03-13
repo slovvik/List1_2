@@ -1,0 +1,8 @@
+MIDlet-1: WelcomWindow,,WelcomWindow
+MIDlet-Jar-Size: 323529
+MIDlet-Jar-URL: List1_2.jar
+MIDlet-Name: List1_2 MIDlet Suite
+MIDlet-Vendor: MIDlet Suite Vendor
+MIDlet-Version: 1.0.0
+MicroEdition-Configuration: CLDC-1.1
+MicroEdition-Profile: MIDP-2.1
